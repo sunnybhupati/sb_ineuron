@@ -5,3 +5,5 @@ git st
 numpy
 pandasgit s
 test 2
+git
+test
